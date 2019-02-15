@@ -1,0 +1,53 @@
+h1   {text-align:center; font-family:Trebuchet MS;font-size:300%;color:#ffca03;}
+h2   {color: #a94300;}
+p    {color: #a94300;font-family:Helvetica;}
+pre    {color: #a94300;font-family:Helvetica;}
+li   {color: #a94300;font-family:Lucida Sans Unicode;}
+li.a {color: #005f89;font-family:Lucida Sans Unicode;font-size: 18px;}
+li.b {color: #006beb;font-family:Lucida Sans Unicode;font-size: 23px; text-decoration:underline; list-style-type: none;text-align:center;}
+caption   {color: #a94300; font-family:Lucida Sans Unicode;text-align:left;}
+th, td  {color: #a94300;}
+video {
+  width: 70%;
+  height: auto;
+  video-align: center;
+}
+
+table, th, td {
+  border: 3px solid #88afdd;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: center;
+color:#005f89;
+font-family: Lucida Sans Unicode;
+font-size: 15px;
+}
+
+
+
+a:link {
+  color: #99856e;
+  background-color: #80b9c8;
+  text-decoration: none;
+  font-family:Lucida Sans Unicode;
+}
+a:visited {
+  color: #810c13;
+  background-color: #80b9c8;
+  text-decoration: none;
+  font-family:Lucida Sans Unicode;
+}
+a:hover {
+  color: #f9f7f6;
+  background-color: #80b9c8;
+  text-decoration: underline;
+  font-family:Lucida Sans Unicode;
+}
+a:active {
+  color: yellow;
+  background-color: #80b9c8;
+  text-decoration: underline;
+  font-family:Lucida Sans Unicode;
+}
